@@ -1,0 +1,14 @@
+div{
+   height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+} 
+
+p{
+    padding: 100px;
+}
+
+h1{
+    align-items: center;
+}
